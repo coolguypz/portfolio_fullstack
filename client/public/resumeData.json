@@ -1,0 +1,161 @@
+{
+	"main": {
+		"name": "Peter Zhang",
+		"occupation": "Project Manager",
+		"description": "Currently employed by Procom Engineering where I responsible for planning,monitor and control the projects",
+		"career": {
+			"wd": "Web Development",
+			"da": "Data Analyst"
+		},
+		"image": "profilepic.jpg",
+		"bio": "Challenges keep coming and learning never stops. Lifting weights gives me more abilities to handle the stress at work and running in the morning gives me a good start. Born in an ocean city in China, moved to the US in 2011 to start my adventure and will complete my master's degree in Information Technology in February 2022. In 2019, I updated my web development skills in the Bootcamp. Love programming and data analysis. During the Bootcamp, I completed a lot of programming practices in JS and learned a lot of data mining algorithms in my master program. Learn Google analyst skills and AWS in my spare time. Outside of work, I am a basketball player and personal trainer. Since coming here, I have made friends from different countries, regions and learned a lot about their culture.",
+		"email": "coolguypz86@gmail.com",
+		"phone": "949-339-7400",
+		"address": {
+			"street": "21 Brookline",
+			"city": "Aliso Viejo",
+			"state": "CA",
+			"zip": "92656"
+		},
+		"website": "http://www.zhiqinz.com",
+		"resumedownload": "PETER_ZHANG_Data_Analytics_Resume.pdf",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/profile.php?id=100074856584753",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "twitter",
+				"url": "https://twitter.com/ZhangPe54292817",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/peter-zhang-49b2ba87/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/peter.react.jr/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/coolguypz",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "",
+		"education": [
+			{
+				"school": "California Lutheran University",
+				"degree": "Masters of  Science in Information Technology",
+				"graduated": "Feb 2022",
+				"description": "Specialized In IT Management and Data Analyst"
+			},
+			{
+				"school": "Tianjin Construction Engineering University,",
+				"degree": "Bachelor of  Science in Computer Information Management",
+				"graduated": "May 2009",
+				"description": ""
+			}
+		],
+		"work": [
+			{
+				"company": "Procom Engineering",
+				"title": "Project Manager and Web Developer",
+				"years": "Nov 2013 - Present",
+				"description": "Responsible for oversea team performance and the effective project management and delivery execution of large complex project implementations. Receive existing customer’s requests and OEM (Original Equipment Manufacturer) orders, analyze requests, provide information requested or ascertain who best can provide the information and fulfill the requests as needed. Leading and managing comprehensive project plans, issue management, risk identification and management. Insert google analytics code to the website to track the visitor information. Developed single page application for the web pages and mobile application using Node JS, Bootstrap, HTML5, CSS3"
+			},
+			{
+				"company": "BeiDaQingNiao",
+				"title": "Front-End Developer",
+				"years": "Jan 2009 - Jun 2011",
+				"description": "Designed Web application layout and forms using HTML, CSS, and JavaScript. Responsible for transforming design mock-ups to W3C standards compliant HTML pages using HTML, CSS. Developed Web API using Node.JS and hosted on multiple load balanced API instances. Involved in all phases of SDLC (Software Development Life Cycle), which includes requirement gathering, developing, unit testing, validating the test results, fixing defects and deploying as a standalone application"
+			}
+		],
+		"skills": [
+			{
+				"name": "Git",
+				"level": "80%"
+			},
+			{
+				"name": "PhotoShop",
+				"level": "70%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "80%"
+			},
+			{
+				"name": "NodeJS",
+				"level": "50%"
+			},
+			{
+				"name": "CSS",
+				"level": "90%"
+			},
+			{
+				"name": "HTML5",
+				"level": "90%"
+			},
+			{
+				"name": "Python",
+				"level": "20%"
+			},
+			{
+				"name": "SQL Server",
+				"level": "60%"
+			},
+			{
+				"name": "R",
+				"level": "60%"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Peter is a pleasure to work with. His friendly disposition and calm demeanor helpsbring out the best in others around him. He fosters positive discussions with team members and always seeks to lend a helping hand whenever the opportunity arises.",
+				"user": "Christopher Perea"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Canadian Wanderlust",
+				"category": "My Travel Blog for my post-university travels",
+				"image": "canadian-wanderlust.jpg",
+				"url": "https://www.canadianwanderlust.com"
+			},
+			{
+				"title": "Fury Fighting Gear",
+				"category": "(offline now) A fighting gear company I started",
+				"image": "fury-fighting-gear.jpg",
+				"url": "http://www.timbakerdev.com"
+			},
+			{
+				"title": "Original Thai Food",
+				"category": "Website I built for a restaurant I like in Thailand",
+				"image": "original-thai-food.jpg",
+				"url": "http://www.timbakerdev.com/originalthaifood.github.io"
+			},
+			{
+				"title": "Resume Website",
+				"category": "A React based resume website template",
+				"image": "resume-website.jpg",
+				"url": "http://www.timbakerdev.com"
+			},
+			{
+				"title": "Smirkspace",
+				"category": "(MVP Only) A React and Meteor based chat University project.",
+				"image": "smirkspace.jpg",
+				"url": "http://www.smirkspace.com"
+			}
+		]
+	}
+}
